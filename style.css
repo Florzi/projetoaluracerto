@@ -41,8 +41,15 @@ body{
 .botao_secundario{
 background-color: transparent;
 border: 2px solid var(--branco-principal);
+
 }
 
+.descricao__titulo {
+    font-weight: 700;
+    font-size:48px;
+    color:var(--branco-principal);
+}
+ 
 .container_aviso {
  font-size:12px;
 color:var(--cinza-secundario);
